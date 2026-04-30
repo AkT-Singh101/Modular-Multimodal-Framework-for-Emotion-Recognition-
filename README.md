@@ -6,10 +6,11 @@ A scalable and modular framework for detecting human emotions from video using *
 
 ## 📸 Screenshots
 
-### Output
-![Output](output.png)
+### Input
+![Input](1.png)
 
-### Pipeline
+### Output
+![Output](2.png)
 
 
 ## 🚀 Overview
