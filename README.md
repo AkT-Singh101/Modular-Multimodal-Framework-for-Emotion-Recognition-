@@ -4,6 +4,14 @@ A scalable and modular framework for detecting human emotions from video using *
 
 ---
 
+## 📸 Screenshots
+
+### Output
+![Output](output.png)
+
+### Pipeline
+
+
 ## 🚀 Overview
 
 Emotion recognition from videos is a challenging task due to the complexity of human expressions. This project leverages **multimodal learning** to extract and fuse information from:
@@ -26,4 +34,3 @@ The system uses **pretrained models** to reduce training time and improve perfor
 
 ---
 
-## 🏗️ System Architecture
