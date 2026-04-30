@@ -1,0 +1,8 @@
+moviepy
+opencv-python
+deepface
+transformers
+torch
+torchaudio
+librosa
+soundfile
